@@ -30,7 +30,5 @@ backend/.env
 *.sln
 *.sw?
 push_to_github.js
-push-to-github.*
-*.bat
 target/
 backend/target/
